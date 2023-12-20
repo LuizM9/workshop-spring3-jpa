@@ -1,0 +1,29 @@
+[33mcommit e008f9f9d4b77b3e18ff12fdde0cdf1eb63f2d14[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Luiz Carlos <luizcmarinho9@gmail.com>
+Date:   Tue Dec 19 15:45:53 2023 -0300
+
+    Service layer, component registration
+
+[33mcommit 3430c067456193dee2822d7daccbe6cb7ac0d810[m
+Author: Luiz Carlos <luizcmarinho9@gmail.com>
+Date:   Tue Dec 19 14:35:20 2023 -0300
+
+    JPA repository, dependency injection, database seeding
+
+[33mcommit 4accc0efaf59f760c5f9866555856c4d8913050a[m
+Author: Luiz Carlos <luizcmarinho9@gmail.com>
+Date:   Fri Dec 15 16:28:17 2023 -0300
+
+    H2 database, test profile, JPA
+
+[33mcommit b3fbd6a5a6a3f9ca3ba6f192d6d54c279c762465[m
+Author: Luiz Carlos <luizcmarinho9@gmail.com>
+Date:   Fri Dec 15 16:01:41 2023 -0300
+
+    User entity and resource
+
+[33mcommit 2399ef3dd54d7be430ada3fc6bf39b6faa405bb7[m
+Author: Luiz Carlos <luizcmarinho9@gmail.com>
+Date:   Thu Dec 14 16:23:23 2023 -0300
+
+    Project created
